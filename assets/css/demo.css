@@ -18084,7 +18084,6 @@ a.text-darker:focus
 {
     .alert-dismissible .close
     {
-        top: 1rem;
         right: .5rem;
     }
 }
